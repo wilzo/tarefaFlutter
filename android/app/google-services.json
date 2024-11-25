@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534028999325",
+    "project_id": "mercadinho-e1d4b",
+    "storage_bucket": "mercadinho-e1d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534028999325:android:d4a6973d735beece9bd274",
+        "android_client_info": {
+          "package_name": "com.example.mercadinho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHXezUSw2vyc9AQdc8N8WBXDML-nPiU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
